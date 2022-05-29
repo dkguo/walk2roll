@@ -27,21 +27,24 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 Please cite this work if it helps your research:
 
 ```
-@ARTICLE{walk2roll,  author={Guo, Dingkun and Wermers, Larissa and Oldham, Kenn R.},  journal={IEEE/ASME Transactions on Mechatronics},   title={Leg Shaping and Event-Driven Control of a Small-Scale, Low-DoF, Two-Mode Robot},   year={2022},  volume={},  number={},  pages={1-9},  doi={10.1109/TMECH.2022.3173183}}
+@ARTICLE{walk2roll,  
+	author={Guo, Dingkun and Wermers, Larissa and Oldham, Kenn R.},  
+	journal={IEEE/ASME Transactions on Mechatronics},   
+	title={Leg Shaping and Event-Driven Control of a Small-Scale, Low-DoF, Two-Mode Robot},   
+	year={2022},  volume={},  number={},  pages={1-9},  
+	doi={10.1109/TMECH.2022.3173183}}
 ```
 
 # Overview
-In this work, we design and prototype two-DoF walking-rolling robot. This repository contains the code of 1) leg profile generation, analysis, and choosing, 2) CAD files for prototype, and 3) event-driven controller.
+In this work, we design and prototype two-DoF walking-rolling robot. This repository contains the code of 
+1) Leg profile generation and analysis
+2) CAD files of the prototype
+3) Event-driven controller
 
 # Prerequisites
-This code is tested with:
-```
-MATLAB
-Arduino
-Arduino UNO Wifi Rev 2
-```
+This code is tested with MATLAB, Arduino, and Arduino UNO Wifi Rev 2.
 
-# Leg profile generation, analysis, and choosing
+# Leg profile generation and analysis
 In `design` foler:
 1. Run `TODO` to randomly generate leg profiles and calculate J1 and J2. A `.mat` file that contains the raw data from the Monte Carlo simulations is provided [here](drive.com). You can load it first and run the remaining files.
 2. Run `a_CriteriaPlots.m`, `b_CleanTrends.m`, `c_ApproximateParetoCurve.m` sequentially to generate figures in the paper.
@@ -51,6 +54,6 @@ CAD files used for 3D printing the robot is included in `CAD` folder.
 
 # Event-driven controller
 An electrical diagram for the robot is shown here:
-![Electrical diagram](images/circuit.pdf)
+![Electrical diagram](images/circuit.png)
 
 In `controller` folder, compile and upload `roll.ino`, `walk.ino`, or `roll_and_walk.ino` to Arduino board and the robot is alive!
