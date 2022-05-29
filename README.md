@@ -20,15 +20,13 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 [Presentation (coming soon on AIM 2022)]
 <br>
 </h3>
-</div>
-
-
+<br>
 <p align="center">
 <img src="images/rolling.gif" alt="rolling" height="150"/>
 <img src="images/walking.gif" alt="walking" height="150"/>
 <img src="images/transition.gif" alt="transition" height="150"/>
 </p>
-
+</div>
 
 # Citation
 Please cite this work if it helps your research:
