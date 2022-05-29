@@ -36,11 +36,10 @@ Please cite this work if it helps your research:
 ```
 
 # Overview
-In this work, we design and prototype two-DoF walking-rolling robot. This repository contains
+In this work, we design and prototype a two-DoF walking-rolling robot. This repository contains
 1) Code for leg profile generation and analysis
 2) CAD files of the prototype
 3) Code of the event-driven controller
-4) Demo videos
 
 # Prerequisites
 This code is tested with MATLAB, Arduino, and Arduino UNO Wifi Rev 2.
@@ -61,6 +60,4 @@ An electrical diagram for the robot is shown below:
 In `controller` folder, compile and upload `roll.ino`, `walk.ino`, or `roll_and_walk.ino` to Arduino board and the robot is alive!
 
 Note: The definitions of front and rear legs are opposite to those in the paper. The state numbers are also different.
-
-# Demo
 
