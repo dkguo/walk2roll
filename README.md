@@ -16,7 +16,7 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 <br>
 <br>
 <a href="https://dkguo.com/academic/publications/J1_walk2roll.pdf">[Paper]</a>
-<a href="https://dkguo.com/research/walk2roll">[Project page]</a>
+<a href="https://dkguo.com/research/walk2roll">[Website]</a>
 [Presentation (coming soon on AIM 2022)]
 <br>
 </h3>
