@@ -59,4 +59,8 @@ An electrical diagram for the robot is shown here:
 <img src="images/circuit.png" alt="Electrical Diagram" width="600"/>
 
 In `controller` folder, compile and upload `roll.ino`, `walk.ino`, or `roll_and_walk.ino` to Arduino board and the robot is alive!
+
 Note: The definitions of front and rear legs are opposite to those in the paper. The state numbers are also different.
+
+# Demo
+
