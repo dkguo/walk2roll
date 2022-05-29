@@ -54,9 +54,9 @@ In `design` foler:
 CAD files used for 3D printing the robot are included in `CAD` folder.
 
 # Event-driven controller
-An electrical diagram for the robot is shown here:
+An electrical diagram for the robot is shown below:
 
-<img src="images/circuit.png" alt="Electrical Diagram" width="600"/>
+<img src="images/circuit.png" alt="Electrical Diagram" width="400"/>
 
 In `controller` folder, compile and upload `roll.ino`, `walk.ino`, or `roll_and_walk.ino` to Arduino board and the robot is alive!
 
