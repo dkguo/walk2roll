@@ -22,8 +22,8 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 </h3>
 <br>
 <p align="center">
-<img src="images/rolling.gif" alt="rolling" height="200"/>
-<img src="images/walking.gif" alt="walking" height="200"/>
+<img src="images/rolling.gif" alt="rolling" height="180"/>
+<img src="images/walking.gif" alt="walking" height="180"/>
 <img src="images/transition.gif" alt="transition" height="200"/>
 </p>
 <br>
