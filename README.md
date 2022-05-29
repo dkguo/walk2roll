@@ -49,13 +49,14 @@ In `design` foler:
 1. Run `TODO` to randomly generate leg profiles and calculate J1 and J2. A `.mat` file that contains the raw data from the Monte Carlo simulations is provided [here](https://drive.google.com/file/d/1t3DsJioSSCW6Dw8d_Bq3EJVaL-_BnXOD/view?usp=sharing). You can load it first and run the remaining files.
 2. Run `a_CriteriaPlots.m`, `b_CleanTrends.m`, `c_ApproximateParetoCurve.m` sequentially to generate figures in the paper.
 
-<img src="images/3.png" alt="design trend" height="400"/>
-<img src="images/4.png" alt="design contour" height="400"/>
+<img src="images/3.png" alt="design trend" height="300"/>
+<img src="images/4.png" alt="design contour" height="300"/>
 
 # CAD
 CAD files used for 3D printing the robot are included in `CAD` folder.
-<img src="images/1a-iso.png" alt="CAD iso" height="400"/>
-<img src="images/1b-iso.png" alt="CAD" height="400"/>
+
+<img src="images/1a-iso.png" alt="CAD iso" height="200"/>
+<img src="images/1b-iso.png" alt="CAD" height="200"/>
 
 # Event-driven controller
 An electrical diagram for the robot is shown below:
