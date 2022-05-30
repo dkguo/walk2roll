@@ -15,7 +15,7 @@ IEEE/ASME Transactions on Mechatronics, 2022
 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2022
 <br>
 <br>
-<a href="https://github.com/dkguo/walk2roll/raw/main/images/walk2roll.pdf">[Paper]</a>
+<a href="images/walk2roll.pdf">[Paper]</a>
 <a href="https://dkguo.com/research/walk2roll">[Website]</a>
 [Presentation (coming soon on AIM 2022)]
 <br>
