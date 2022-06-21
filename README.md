@@ -22,9 +22,9 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 </h3>
 <br>
 <p align="center">
-<img src="images/rolling.gif" alt="rolling" height="150"/>
-<img src="images/walking.gif" alt="walking" height="150"/>
-<img src="images/transition.gif" alt="transition" height="150"/>
+<img src="images/rolling.gif" alt="rolling" height="130"/>
+<img src="images/walking.gif" alt="walking" height="130"/>
+<img src="images/transition.gif" alt="transition" height="130"/>
 </p>
 <br>
 </div>
@@ -52,7 +52,7 @@ This code is tested with MATLAB, Arduino, and Arduino UNO Wifi Rev 2.
 
 # Leg profile generation and analysis
 In `design` foler:
-1. Run `TODO` to randomly generate leg profiles and calculate J1 and J2. A `.mat` file that contains the raw data from the Monte Carlo simulations is provided [here](https://drive.google.com/file/d/1t3DsJioSSCW6Dw8d_Bq3EJVaL-_BnXOD/view?usp=sharing). You can load it first and run the remaining files.
+1. The MATLAB file to randomly generate leg profiles and calculate J1 and J2 will be added by request. A `.mat` file that contains the raw data from the Monte Carlo simulations is provided [here](https://drive.google.com/file/d/1t3DsJioSSCW6Dw8d_Bq3EJVaL-_BnXOD/view?usp=sharing). You can load it first and run the remaining files.
 2. Run `a_CriteriaPlots.m`, `b_CleanTrends.m`, `c_ApproximateParetoCurve.m` sequentially to generate figures in the paper.
 
 <p float="left">
