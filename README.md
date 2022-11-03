@@ -37,10 +37,7 @@ Please cite this work if it helps your research:
   author={Guo, Dingkun and Wermers, Larissa and Oldham, Kenn R.},
   journal={IEEE/ASME Transactions on Mechatronics}, 
   title={Leg Shaping and Event-Driven Control of a Small-Scale, Low-DoF, Two-Mode Robot}, 
-  year={2022},
-  volume={27},
-  number={4},
-  pages={1910-1918},
+  year={2022}, volume={27}, number={4}, pages={1910-1918},
   doi={10.1109/TMECH.2022.3173183}}
 ```
 
