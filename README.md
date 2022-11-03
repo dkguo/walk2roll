@@ -17,7 +17,7 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 <br>
 <a href="https://arxiv.org/pdf/2205.14579.pdf">[Paper]</a>
 <a href="https://dkguo.com/research/walk2roll">[Website]</a>
-[Presentation (coming soon on AIM 2022)]
+<a href="https://youtu.be/P6FxYMbSkI4"> [Presentation]</a>
 <br>
 </h3>
 <br>
@@ -34,11 +34,14 @@ Please cite this work if it helps your research:
 
 ```
 @ARTICLE{walk2roll,  
-	author={Guo, Dingkun and Wermers, Larissa and Oldham, Kenn R.},  
-	journal={IEEE/ASME Transactions on Mechatronics},   
-	title={Leg Shaping and Event-Driven Control of a Small-Scale, Low-DoF, Two-Mode Robot},   
-	year={2022},  volume={},  number={},  pages={1-9},  
-	doi={10.1109/TMECH.2022.3173183}}
+  author={Guo, Dingkun and Wermers, Larissa and Oldham, Kenn R.},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  title={Leg Shaping and Event-Driven Control of a Small-Scale, Low-DoF, Two-Mode Robot}, 
+  year={2022},
+  volume={27},
+  number={4},
+  pages={1910-1918},
+  doi={10.1109/TMECH.2022.3173183}}
 ```
 
 # Overview
